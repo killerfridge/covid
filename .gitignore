@@ -1,0 +1,7 @@
+venv/
+*.xlsx
+*.csv
+model.ipynb
+"agent based model.ipynb"
+"MESA Visualisation.ipynb"
+.ipynb_checkpoints/
